@@ -4,4 +4,4 @@ go 1.24.2
 
 replace github.com/troychiu/gomodtest/subproject => ./subproject
 
-require github.com/troychiu/gomodtest/subproject v0.0.0
+require github.com/troychiu/gomodtest/subproject v0.1.0
