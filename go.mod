@@ -8,3 +8,4 @@ replace (
 )
 
 require github.com/troychiu/gomodtest/subproject v0.1.0
+require github.com/troychiu/gomodtest/another v0.0.0
